@@ -1,4 +1,4 @@
-<h1 style="color: pink;"> 📚 Meu Portfólio - IA GENERATIVA </h1>
+<h1> 📚 Meu Portfólio - IA GENERATIVA </h1>
 
 ## 🌸 Descrição
 Criação de livro inspirado em obras que já li.

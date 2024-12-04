@@ -7,7 +7,7 @@ Criação de livro inspirado em obras que já li.
 Foram utilizados CHATGPT + Leonardo AI
 
 ## 🌸 Processo de Criação
-Pedi que o CHATGPT criasse o resumo e no Microsoft Designer descrevi o prompt para as imagens.
+Pedi que o CHATGPT criasse o resumo e no Leonardo AI descrevi o prompt para as imagens.
 
 ## 🌸 Resultados
 Para visualizar os livros é so clicar em Ler Online

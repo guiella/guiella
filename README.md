@@ -4,7 +4,7 @@
 Criação de livro inspirado em obras que já li.
 
 ## 🌸 Tecnologias Utilizadas
-Foram utilizados CHATGPT + MICROSOFT DESIGNER
+Foram utilizados CHATGPT + Leonardo AI
 
 ## 🌸 Processo de Criação
 Pedi que o CHATGPT criasse o resumo e no Microsoft Designer descrevi o prompt para as imagens.

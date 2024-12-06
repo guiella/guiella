@@ -1,4 +1,4 @@
-<h1> 📚 Meu Portfólio - IA GENERATIVA </h1>
+<h1> 📚 Meu Portfólio - CURSO CAIXA - IA Generativa com Microsoft Copilot </h1>
 
 ## 🌸 Descrição
 Criação de livro inspirado em obras que já li.

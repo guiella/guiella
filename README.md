@@ -4,7 +4,11 @@
 Criação de livro inspirado em obras que já li.
 
 ## 🌸 Tecnologias Utilizadas
-Foram utilizados CHATGPT + Leonardo AI
+
+Projeto 1 Chatgpt + Leonardo AI
+Projeto 2 Canva + Chatgpt + Microsoft Designer
+Projeto 3 Excel + Chatgpt + Midjourney
+Projeto 4 Chatgpt + Elevenlabs + Canva + Youtube
 
 ## 🌸 Processo de Criação
 Pedi que o CHATGPT criasse o resumo e no Leonardo AI descrevi o prompt para as imagens.
